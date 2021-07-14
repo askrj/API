@@ -1,0 +1,17 @@
+D:\projeto\WebApi\Data\bin\Debug\net5.0\Data.deps.json
+D:\projeto\WebApi\Data\bin\Debug\net5.0\Data.dll
+D:\projeto\WebApi\Data\bin\Debug\net5.0\ref\Data.dll
+D:\projeto\WebApi\Data\bin\Debug\net5.0\Data.pdb
+D:\projeto\WebApi\Data\bin\Debug\net5.0\Business.dll
+D:\projeto\WebApi\Data\bin\Debug\net5.0\Model.dll
+D:\projeto\WebApi\Data\bin\Debug\net5.0\Business.pdb
+D:\projeto\WebApi\Data\bin\Debug\net5.0\Model.pdb
+D:\projeto\WebApi\Data\obj\Debug\net5.0\Data.csprojAssemblyReference.cache
+D:\projeto\WebApi\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\projeto\WebApi\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+D:\projeto\WebApi\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+D:\projeto\WebApi\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+D:\projeto\WebApi\Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+D:\projeto\WebApi\Data\obj\Debug\net5.0\Data.dll
+D:\projeto\WebApi\Data\obj\Debug\net5.0\ref\Data.dll
+D:\projeto\WebApi\Data\obj\Debug\net5.0\Data.pdb

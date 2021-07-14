@@ -1,0 +1,12 @@
+D:\projeto\WebApi\Model\bin\Debug\net5.0\Model.deps.json
+D:\projeto\WebApi\Model\bin\Debug\net5.0\Model.dll
+D:\projeto\WebApi\Model\bin\Debug\net5.0\ref\Model.dll
+D:\projeto\WebApi\Model\bin\Debug\net5.0\Model.pdb
+D:\projeto\WebApi\Model\obj\Debug\net5.0\Model.csprojAssemblyReference.cache
+D:\projeto\WebApi\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\projeto\WebApi\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+D:\projeto\WebApi\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+D:\projeto\WebApi\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+D:\projeto\WebApi\Model\obj\Debug\net5.0\Model.dll
+D:\projeto\WebApi\Model\obj\Debug\net5.0\ref\Model.dll
+D:\projeto\WebApi\Model\obj\Debug\net5.0\Model.pdb

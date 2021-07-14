@@ -1,0 +1,15 @@
+D:\projeto\WebApi\Business\bin\Debug\net5.0\Model.dll
+D:\projeto\WebApi\Business\obj\Debug\net5.0\Business.csprojAssemblyReference.cache
+D:\projeto\WebApi\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\projeto\WebApi\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+D:\projeto\WebApi\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+D:\projeto\WebApi\Business\bin\Debug\net5.0\Business.deps.json
+D:\projeto\WebApi\Business\bin\Debug\net5.0\Business.dll
+D:\projeto\WebApi\Business\bin\Debug\net5.0\ref\Business.dll
+D:\projeto\WebApi\Business\bin\Debug\net5.0\Business.pdb
+D:\projeto\WebApi\Business\bin\Debug\net5.0\Model.pdb
+D:\projeto\WebApi\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+D:\projeto\WebApi\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+D:\projeto\WebApi\Business\obj\Debug\net5.0\Business.dll
+D:\projeto\WebApi\Business\obj\Debug\net5.0\ref\Business.dll
+D:\projeto\WebApi\Business\obj\Debug\net5.0\Business.pdb
